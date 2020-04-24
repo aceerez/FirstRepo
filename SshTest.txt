@@ -1,1 +1,1 @@
-this is a atest file for ssh test git hub
+this is a a test file for ssh test git hub
